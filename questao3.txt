@@ -1,0 +1,8 @@
+// Questão 3) Descubra a lógica e complete o próximo elemento:
+
+a) Resposta: 9 , são os números impares
+b) Resposta: 128 , é uma sequencia de 2^n
+c) Resposta: 49 , sequencia de números quadrados
+d) Resposta: 100, sequencia de quadrados pares Ex: 2x2,4x4,6x6,8x8,10x10...
+e) Resposta: 13, fibonacci sem o 0 no início
+f) Resposta: 200, todos os números que começam com a letra D
